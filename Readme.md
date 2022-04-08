@@ -6,11 +6,11 @@ https://jdk.java.net/java-se-ri/7
 - jdk_ri-7u75-b13-windows-i586-18_dec_2014.zip<br>
 java-se-7u75-ri\demo\applets\WireFrame
 
-expanded source: 0_applet folder
+expanded source folder: 0_applet 
 
 ## Step 1: migrate to Swing JFrame + Canvas
 
-- source: 1_swing
+- source folder: 1_swing
 - Java: OpenJDK 17.0.2
 
 <img alt="example1" src="1_swing/example1.png" width=300 height=300> &nbsp; <img alt="example2" src="1_swing/example2.png" width=300 height=300>
@@ -19,7 +19,7 @@ expanded source: 0_applet folder
 
 ## Step 2: migrate to JavaFX + Canvas
 
-- source: 2_jfx_canvas
+- source folder: 2_jfx_canvas
 - Java: OpenJDK 17.0.2
 - JavaFX: OpenJFX SDK 17.0.2
 
@@ -29,7 +29,7 @@ expanded source: 0_applet folder
 
 ## Step 3: migrate to JavaFX + Mesh
 
-- source: 3_jfx_mesh
+- source folder: 3_jfx_mesh
 - Java: OpenJDK 17.0.2
 - JavaFX: OpenJFX SDK 17.0.2
 
